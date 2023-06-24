@@ -1,6 +1,10 @@
 # re:WAKE Labs Branding
 The official branding for re:WAKE Labs
 
+## Colors
+* Primary: `#9EE09E`
+* Secondary: `#FDFD97`
+
 ## Logo
 |           Color            |          Logo          |          Alternative logo          |
 | :----------------------------: | :----------------------------: | :----------------------------: |
